@@ -21,8 +21,8 @@ If you want to search & filters the complete database of [.PROF one word domains
 
 | Domain          | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | --------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.prof        | available | 70       | 38%    | 3      |           |         |         |
-| aaron.prof      | available | 88       | 32%    | 5      |           |         |         |
+| aaa.prof        | premium   | 70       | 38%    | 3      |           |         |         |
+| aaron.prof      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.prof  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.prof      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.prof  | available | 58       | 7%     | 9      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.PROF one word domains
 | abatic.prof     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.prof    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.prof   | available | 50       | 1%     | 8      |           |         |         |
-| abc.prof        | available | 102      | 41%    | 3      |           |         |         |
+| abc.prof        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.prof  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.prof  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.prof | available | 56       | 1%     | 10     |           |         |         |
