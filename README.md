@@ -1,22 +1,22 @@
-# Available .PROF One-Word Domains (5,621,938)
+# Available .PROF One-Word Domains (9,932)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C932%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C621%2C938%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C932%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .prof one-word domains from Unique Domains.
+Daily-updated dataset of available and resale .prof one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 9,932-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **5,621,938 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,932 rows · **Live catalog:** 5,621,938 domains
+**Public extract:** 9,932 rows · **Live catalog:** 9,932 domains
 
-**Last updated:** 2026-04-10  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/prof`  
 **Best for:** founders, investors, studios
 
@@ -71,19 +71,19 @@ print(df.head())
 | nationwide.prof | available | $26.99    | $37.99        | 76             | 66     | 10     | name.com  |
 | seventeen.prof  | premium   | $61.25    | $61.25        | 84             | 62     | 9      | name.com  |
 | ethereal.prof   | available | $26.99    | $37.99        | 88             | 32     | 8      | name.com  |
-| data.prof       | premium   | $843.70   | $843.70       | 70             | 60     | 4      | namecheap |
-| adept.prof      | available | $26.99    | $37.99        | 92             | 27     | 5      | name.com  |
 | free.prof       | premium   | $811.25   | $811.25       | 88             | 59     | 4      | name.com  |
 | curative.prof   | available | $26.99    | $37.99        | 92             | 27     | 8      | name.com  |
 | cloud.prof      | premium   | $1,688.70 | $1,688.70     | 70             | 59     | 5      | namecheap |
-| remedial.prof   | available | $26.99    | $37.99        | 86             | 24     | 8      | name.com  |
+| adept.prof      | available | $26.99    | $37.99        | 92             | 26     | 5      | name.com  |
 | ace.prof        | premium   | $811.25   | $811.25       | 88             | 57     | 3      | name.com  |
+| remedial.prof   | available | $26.99    | $37.99        | 86             | 24     | 8      | name.com  |
+| live.prof       | premium   | $811.25   | $811.25       | 108            | 56     | 4      | name.com  |
 | critical.prof   | available | $26.99    | $37.99        | 82             | 24     | 8      | name.com  |
-| live.prof       | premium   | $811.25   | $811.25       | 108            | 55     | 4      | name.com  |
+| data.prof       | premium   | $843.70   | $843.70       | 70             | 56     | 4      | namecheap |
 | sincere.prof    | available | $26.99    | $37.99        | 72             | 22     | 7      | name.com  |
 | good.prof       | premium   | $811.25   | $811.25       | 82             | 55     | 4      | name.com  |
 | abundant.prof   | available | $26.99    | $37.99        | 80             | 21     | 8      | name.com  |
-| zero.prof       | premium   | $811.25   | $811.25       | 112            | 53     | 4      | name.com  |
+| alpha.prof      | premium   | $811.25   | $811.25       | 90             | 54     | 5      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,932-row public sample | 5,621,938 live domains                           |
+| 9,932-row public sample | 9,932 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PROF One-Word Domains*. Version 2026-04-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PROF One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
