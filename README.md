@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .prof one-word domains from Unique
 
 **Public extract:** 9,932 rows · **Live catalog:** 9,932 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/prof`  
 **Best for:** founders, investors, studios
 
@@ -70,7 +70,7 @@ print(df.head())
 | power.prof      | premium   | $843.70   | $843.70       | 98             | 62     | 5      | namecheap |
 | nationwide.prof | available | $26.99    | $37.99        | 76             | 66     | 10     | name.com  |
 | seventeen.prof  | premium   | $61.25    | $61.25        | 84             | 62     | 9      | name.com  |
-| ethereal.prof   | available | $26.99    | $37.99        | 88             | 32     | 8      | name.com  |
+| ethereal.prof   | available | $26.99    | $37.99        | 88             | 31     | 8      | name.com  |
 | free.prof       | premium   | $811.25   | $811.25       | 88             | 59     | 4      | name.com  |
 | curative.prof   | available | $26.99    | $37.99        | 92             | 27     | 8      | name.com  |
 | cloud.prof      | premium   | $1,688.70 | $1,688.70     | 70             | 59     | 5      | namecheap |
@@ -83,7 +83,7 @@ print(df.head())
 | sincere.prof    | available | $26.99    | $37.99        | 72             | 22     | 7      | name.com  |
 | good.prof       | premium   | $811.25   | $811.25       | 82             | 55     | 4      | name.com  |
 | abundant.prof   | available | $26.99    | $37.99        | 80             | 21     | 8      | name.com  |
-| alpha.prof      | premium   | $811.25   | $811.25       | 90             | 54     | 5      | name.com  |
+| zero.prof       | premium   | $811.25   | $811.25       | 112            | 53     | 4      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PROF One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PROF One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
