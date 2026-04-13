@@ -71,18 +71,18 @@ print(df.head())
 | nationwide.prof | available | $26.99    | $37.99        | 76             | 66     | 10     | name.com  |
 | seventeen.prof  | premium   | $61.25    | $61.25        | 84             | 62     | 9      | name.com  |
 | ethereal.prof   | available | $26.99    | $37.99        | 88             | 31     | 8      | name.com  |
-| free.prof       | premium   | $811.25   | $811.25       | 88             | 59     | 4      | name.com  |
-| curative.prof   | available | $26.99    | $37.99        | 92             | 27     | 8      | name.com  |
 | cloud.prof      | premium   | $1,688.70 | $1,688.70     | 70             | 59     | 5      | namecheap |
-| adept.prof      | available | $26.99    | $37.99        | 92             | 26     | 5      | name.com  |
+| curative.prof   | available | $26.99    | $37.99        | 92             | 27     | 8      | name.com  |
 | ace.prof        | premium   | $811.25   | $811.25       | 88             | 57     | 3      | name.com  |
+| adept.prof      | available | $26.99    | $37.99        | 92             | 26     | 5      | name.com  |
+| free.prof       | premium   | $811.25   | $811.25       | 88             | 57     | 4      | name.com  |
 | remedial.prof   | available | $26.99    | $37.99        | 86             | 24     | 8      | name.com  |
 | live.prof       | premium   | $811.25   | $811.25       | 108            | 56     | 4      | name.com  |
 | critical.prof   | available | $26.99    | $37.99        | 82             | 24     | 8      | name.com  |
 | data.prof       | premium   | $843.70   | $843.70       | 70             | 56     | 4      | namecheap |
-| sincere.prof    | available | $26.99    | $37.99        | 72             | 22     | 7      | name.com  |
-| good.prof       | premium   | $811.25   | $811.25       | 82             | 55     | 4      | name.com  |
 | abundant.prof   | available | $26.99    | $37.99        | 80             | 21     | 8      | name.com  |
+| good.prof       | premium   | $811.25   | $811.25       | 82             | 55     | 4      | name.com  |
+| sincere.prof    | available | $26.99    | $37.99        | 72             | 21     | 7      | name.com  |
 | zero.prof       | premium   | $811.25   | $811.25       | 112            | 53     | 4      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
