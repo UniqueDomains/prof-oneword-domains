@@ -78,9 +78,9 @@ print(df.head())
 | stories.prof      | premium   | $811.25   | —             | 58             | 36     | 7      | name.com  |
 | techsupport.prof  | available | $26.99    | —             | 76             | 18     | 12     | name.com  |
 | homes.prof        | premium   | $811.25   | —             | 86             | 34     | 5      | name.com  |
-| goviral.prof      | available | $26.99    | —             | 76             | 17     | 8      | name.com  |
+| jetlag.prof       | available | $26.99    | —             | 72             | 18     | 7      | name.com  |
 | spectra.prof      | premium   | $111.25   | —             | 62             | 34     | 7      | name.com  |
-| jetlag.prof       | available | $26.99    | —             | 72             | 17     | 7      | name.com  |
+| goviral.prof      | available | $26.99    | —             | 76             | 17     | 8      | name.com  |
 | Cats.prof         | premium   | $1,818.60 | $1,818.60     | 59             | 33     | 4      | namecheap |
 | Sundays.prof      | available | $29.38    | —             | 61             | 17     | 7      | namecheap |
 | payments.prof     | premium   | $1,623.75 | —             | 58             | 33     | 8      | name.com  |
