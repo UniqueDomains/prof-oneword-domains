@@ -1,10 +1,10 @@
-# Available .PROF One-Word Domains (12,919)
+# Available .PROF One-Word Domains (12,920)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C919%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C920%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .prof one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,919 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,920 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,919 domains · **Median ask:** $103.12 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,920 domains · **Median ask:** $149.84 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/prof`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/prof`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .PROF one-word domain 
 
 ### Files
 
-- `prof.csv` — public CSV extract (1,000 rows)
-- `prof.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `prof.csv`, public CSV extract (1,000 rows)
+- `prof.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| shortcuts.prof    | available | $26.99    | —             | 48             | 41     | 10     | name.com  |
-| online.prof       | premium   | $811.25   | —             | 70             | 62     | 7      | name.com  |
-| motorsport.prof   | available | $26.99    | —             | 74             | 23     | 10     | name.com  |
-| agents.prof       | premium   | $411.25   | —             | 56             | 50     | 6      | name.com  |
-| deeplearning.prof | available | $26.99    | —             | 74             | 23     | 13     | name.com  |
-| Books.prof        | premium   | $1,818.60 | $1,818.60     | 52             | 49     | 5      | namecheap |
-| investors.prof    | available | $26.99    | —             | 60             | 23     | 9      | name.com  |
-| skills.prof       | premium   | $811.25   | —             | 58             | 47     | 6      | name.com  |
-| Allie.prof        | available | $29.38    | —             | 72             | 21     | 5      | namecheap |
-| lets.prof         | premium   | $198.75   | —             | 77             | 39     | 4      | name.com  |
-| lostandfound.prof | available | $26.99    | —             | 64             | 19     | 14     | name.com  |
-| stories.prof      | premium   | $811.25   | —             | 58             | 36     | 7      | name.com  |
-| techsupport.prof  | available | $26.99    | —             | 76             | 18     | 12     | name.com  |
-| homes.prof        | premium   | $811.25   | —             | 86             | 34     | 5      | name.com  |
-| jetlag.prof       | available | $26.99    | —             | 72             | 18     | 7      | name.com  |
-| spectra.prof      | premium   | $111.25   | —             | 62             | 34     | 7      | name.com  |
-| goviral.prof      | available | $26.99    | —             | 76             | 17     | 8      | name.com  |
-| Cats.prof         | premium   | $1,818.60 | $1,818.60     | 59             | 33     | 4      | namecheap |
-| Sundays.prof      | available | $29.38    | —             | 61             | 17     | 7      | namecheap |
-| payments.prof     | premium   | $1,623.75 | —             | 58             | 33     | 8      | name.com  |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| torn.prof  | available | $26.99    | —             | medium         | low    | 4      | name.com  |
+| apt.prof   | premium   | $198.75   | —             | high           | low    | 3      | name.com  |
+| chore.prof | available | $26.99    | —             | high           | low    | 5      | name.com  |
+| awe.prof   | premium   | $111.25   | —             | high           | low    | 3      | name.com  |
+| curse.prof | available | $26.99    | $37.99        | high           | low    | 5      | name.com  |
+| bce.prof   | premium   | $111.25   | —             | medium         | low    | 3      | name.com  |
+| Fairs.prof | available | $26.99    | —             | high           | low    | 5      | name.com  |
+| ben.prof   | premium   | $811.25   | —             | high           | medium | 3      | name.com  |
+| fewer.prof | available | $26.99    | —             | medium         | low    | 5      | name.com  |
+| bio.prof   | premium   | $811.25   | —             | high           | medium | 3      | name.com  |
+| haste.prof | available | $26.99    | —             | medium         | low    | 5      | name.com  |
+| cap.prof   | premium   | $811.25   | —             | high           | low    | 3      | name.com  |
+| hence.prof | available | $26.99    | —             | medium         | low    | 5      | name.com  |
+| cut.prof   | premium   | $811.25   | $811.25       | high           | low    | 3      | name.com  |
+| lorry.prof | available | $26.99    | —             | high           | low    | 5      | name.com  |
+| DJI.prof   | premium   | $198.75   | —             | high           | low    | 3      | name.com  |
+| messy.prof | available | $26.99    | —             | medium         | low    | 5      | name.com  |
+| dye.prof   | premium   | $111.25   | —             | medium         | low    | 3      | name.com  |
+| occur.prof | available | $26.99    | —             | high           | low    | 5      | name.com  |
+| Fla.prof   | premium   | $111.25   | —             | medium         | low    | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,919 live domains                        |
+| 1,000-row public sample | 12,920 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are one-word names on the .prof extension. The set is broad, with examples ranging from concrete words like breakfast.prof and van.prof to abstract terms like positive.prof and eclipse.prof. That mix matters. Founders should favor words that are easy to say, easy to recall, and closely matched to the business they want to build. Investors should focus on clean dictionary terms with wider use cases and realistic entry pricing. When comparing these domains, start with word strength, commercial flexibility, and whether the term feels naturally compatible with a professional-facing extension such as .prof.
+This set of one-word .prof domain names covers a wide range of concepts, from everyday words like tips.prof and ladies.prof to distinctive brandable names such as superhero.prof, chickensoup.prof, and makewhole.prof. With a median asking price near $150 across 12,920 domains, this selection offers a broad price landscape for comparing brandability, memorability, and renewal costs before committing to a name.
 
-- Favor clean dictionary words with clear meaning
-- Check whether the word fits a professional context
-- Use median ask 103.12 as a pricing reference point
-- Avoid terms that may raise trademark concerns
+- 12,920 one-word .prof domains tracked, updated daily
+- Median asking price near $150 across this selection
+- Brandable picks: superhero.prof, tips.prof, headout.prof
+- Themes span everyday nouns to distinctive business names
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PROF One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PROF One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
