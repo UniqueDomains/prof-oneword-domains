@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .prof one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 19,600 domains · **Median ask:** $98.99 · **High-demand under $2,500:** 37
 
-**Last updated:** 2026-08-24
+**Last updated:** 2026-08-25
 **Canonical page:** `https://unique.domains/domains/tld/prof`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,9 @@ print(df.head())
 
 | domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| hello.prof | premium   | $811.25   | —             | high           | high   | 5      | name.com  |
+| easy.prof  | premium   | $811.25   | $811.25       | high           | medium | 4      | name.com  |
+| away.prof  | premium   | $411.25   | —             | high           | low    | 4      | name.com  |
 | awol.prof  | available | $25.98    | $29.38        | low            | low    | 4      | namecheap |
 | aft.prof   | premium   | $111.25   | $111.25       | low            | low    | 3      | name.com  |
 | boer.prof  | available | $25.98    | $29.38        | low            | low    | 4      | namecheap |
@@ -81,9 +84,6 @@ print(df.head())
 | torn.prof  | available | $26.99    | —             | medium         | low    | 4      | name.com  |
 | ccc.prof   | premium   | $411.25   | $411.25       | low            | medium | 3      | name.com  |
 | xxiv.prof  | available | $25.98    | $29.38        | low            | low    | 4      | namecheap |
-| cut.prof   | premium   | $811.25   | $811.25       | high           | low    | 3      | name.com  |
-| afoot.prof | available | $25.98    | $29.38        | low            | low    | 5      | namecheap |
-| cxx.prof   | premium   | $111.25   | $111.25       | low            | low    | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PROF One-Word Domains*. Version 2026-08-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PROF One-Word Domains*. Version 2026-08-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
