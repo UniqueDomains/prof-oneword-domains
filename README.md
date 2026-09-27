@@ -1,10 +1,10 @@
-# Available .PROF One-Word Domains (33,868)
+# Available .PROF One-Word Domains (24,298)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C868%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C298%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .prof one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **33,868 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **24,298 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 33,868 domains · **Median ask:** $74.64 · **High-demand under $2,500:** 37
+**Public extract:** 1,000 rows · **Live catalog:** 24,298 domains · **Median ask:** $102.87 · **High-demand under $2,500:** 68
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/prof`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| agog.prof | available | $25.98    | $29.38        | high           | low    | 4      | namecheap |
-| aft.prof  | premium   | $111.25   | $111.25       | high           | low    | 3      | name.com  |
-| ashy.prof | available | $25.98    | $29.38        | high           | low    | 4      | namecheap |
-| ass.prof  | premium   | $811.25   | $811.25       | high           | low    | 3      | name.com  |
-| awol.prof | available | $25.98    | $29.38        | high           | low    | 4      | namecheap |
-| awe.prof  | premium   | $111.25   | —             | high           | low    | 3      | name.com  |
-| boer.prof | available | $25.98    | $29.38        | high           | low    | 4      | namecheap |
-| bce.prof  | premium   | $111.25   | —             | high           | low    | 3      | name.com  |
-| buns.prof | available | $25.98    | $29.38        | medium         | low    | 4      | namecheap |
-| ben.prof  | premium   | $811.25   | —             | high           | medium | 3      | name.com  |
-| clxv.prof | available | $25.98    | $29.38        | medium         | low    | 4      | namecheap |
-| bio.prof  | premium   | $811.25   | —             | high           | medium | 3      | name.com  |
-| eyry.prof | available | $25.98    | $29.38        | high           | low    | 4      | namecheap |
-| cap.prof  | premium   | $811.25   | —             | high           | low    | 3      | name.com  |
-| ford.prof | available | $26.99    | —             | high           | high   | 4      | name.com  |
-| ccc.prof  | premium   | $411.25   | $411.25       | high           | medium | 3      | name.com  |
-| foul.prof | available | $25.98    | $29.38        | high           | low    | 4      | namecheap |
-| cxx.prof  | premium   | $111.25   | $111.25       | high           | low    | 3      | name.com  |
-| gail.prof | available | $26.99    | —             | high           | low    | 4      | name.com  |
-| dji.prof  | premium   | $198.75   | —             | high           | low    | 3      | name.com  |
+| agal.prof | available | $25.98    | $29.38        | medium         | low    | 4      | namecheap |
+| aga.prof  | premium   | $115.70   | $115.70       | high           | low    | 3      | namecheap |
+| akee.prof | available | $26.99    | $37.99        | medium         | low    | 4      | name.com  |
+| ago.prof  | premium   | $427.70   | $427.70       | high           | low    | 3      | namecheap |
+| akka.prof | available | $25.98    | $29.38        | high           | low    | 4      | namecheap |
+| big.prof  | premium   | $843.70   | $843.70       | high           | medium | 3      | namecheap |
+| barf.prof | available | $25.98    | $29.38        | high           | medium | 4      | namecheap |
+| boo.prof  | premium   | $198.75   | —             | high           | low    | 3      | name.com  |
+| bilk.prof | available | $25.98    | $29.38        | medium         | low    | 4      | namecheap |
+| cbs.prof  | premium   | $115.70   | $115.70       | high           | medium | 3      | namecheap |
+| blah.prof | available | $25.98    | $29.38        | high           | low    | 4      | namecheap |
+| don.prof  | premium   | $411.25   | —             | high           | low    | 3      | name.com  |
+| brie.prof | available | $26.99    | —             | high           | low    | 4      | name.com  |
+| fla.prof  | premium   | $111.25   | —             | high           | low    | 3      | name.com  |
+| burp.prof | available | $25.98    | $29.38        | high           | low    | 4      | namecheap |
+| gdp.prof  | premium   | $115.70   | $115.70       | high           | low    | 3      | namecheap |
+| dior.prof | available | $25.98    | $29.38        | high           | medium | 4      | namecheap |
+| hoy.prof  | premium   | $115.70   | $115.70       | high           | low    | 3      | namecheap |
+| dopy.prof | available | $25.98    | $29.38        | medium         | low    | 4      | namecheap |
+| ill.prof  | premium   | $115.70   | $115.70       | high           | low    | 3      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 33,868 live domains                        |
+| 1,000-row public sample | 24,298 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 37 high-demand names under $2,500          |
+| Basic exported fields   | 68 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PROF One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PROF One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
