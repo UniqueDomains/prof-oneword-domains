@@ -1,10 +1,10 @@
-# Available .PROF One-Word Domains (30,339)
+# Available .PROF One-Word Domains (32,664)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-30%2C339%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C664%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .prof one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **30,339 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **32,664 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 30,339 domains · **Median ask:** $91.70 · **High-demand under $2,500:** 86
+**Public extract:** 1,000 rows · **Live catalog:** 32,664 domains · **Median ask:** $87.33 · **High-demand under $2,500:** 93
 
-**Last updated:** 2026-09-30
+**Last updated:** 2026-10-01
 **Canonical page:** `https://unique.domains/domains/tld/prof`
 **Best for:** founders, investors, studios
 
@@ -65,25 +65,25 @@ print(df.head())
 | domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
 | --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
 | agal.prof | available | $25.98    | $29.38        | medium         | low    | 4      | namecheap   |
-| aga.prof  | premium   | $115.70   | $115.70       | high           | low    | 3      | namecheap   |
+| adr.prof  | premium   | $89.20    | —             | high           | low    | 3      | unstoppable |
 | akee.prof | available | $26.99    | $37.99        | medium         | low    | 4      | name.com    |
-| ago.prof  | premium   | $427.70   | $427.70       | high           | low    | 3      | namecheap   |
+| aga.prof  | premium   | $115.70   | $115.70       | high           | low    | 3      | namecheap   |
 | akka.prof | available | $25.98    | $29.38        | high           | low    | 4      | namecheap   |
-| big.prof  | premium   | $649.20   | $843.70       | high           | medium | 3      | unstoppable |
+| ago.prof  | premium   | $427.70   | $427.70       | high           | low    | 3      | namecheap   |
 | barf.prof | available | $25.98    | $29.38        | high           | medium | 4      | namecheap   |
-| blm.prof  | premium   | $89.20    | —             | high           | low    | 3      | unstoppable |
+| bev.prof  | premium   | $92.32    | $92.32        | high           | low    | 3      | spaceship   |
 | bilk.prof | available | $25.98    | $29.38        | medium         | low    | 4      | namecheap   |
-| boo.prof  | premium   | $164.77   | $164.77       | high           | low    | 3      | spaceship   |
+| big.prof  | premium   | $649.20   | $843.70       | high           | medium | 3      | unstoppable |
 | blah.prof | available | $25.98    | $29.38        | high           | low    | 4      | namecheap   |
-| css.prof  | premium   | $649.20   | —             | high           | medium | 3      | unstoppable |
+| blm.prof  | premium   | $89.20    | —             | high           | low    | 3      | unstoppable |
 | dior.prof | available | $25.98    | $29.38        | high           | medium | 4      | namecheap   |
-| ecg.prof  | premium   | $115.70   | $115.70       | high           | low    | 3      | namecheap   |
-| dopy.prof | available | $25.98    | $29.38        | medium         | low    | 4      | namecheap   |
-| fla.prof  | premium   | $111.25   | —             | high           | low    | 3      | name.com    |
+| boo.prof  | premium   | $164.77   | $164.77       | medium         | low    | 3      | spaceship   |
+| fars.prof | available | $20.20    | $20.20        | medium         | low    | 4      | cloudflare  |
+| css.prof  | premium   | $649.20   | —             | high           | medium | 3      | unstoppable |
 | foes.prof | available | $25.98    | $29.38        | medium         | low    | 4      | namecheap   |
-| gdp.prof  | premium   | $115.70   | $115.70       | high           | low    | 3      | namecheap   |
+| fla.prof  | premium   | $111.25   | —             | high           | low    | 3      | name.com    |
 | gail.prof | available | $26.99    | —             | high           | low    | 4      | name.com    |
-| ill.prof  | premium   | $115.70   | $115.70       | high           | low    | 3      | namecheap   |
+| gdp.prof  | premium   | $115.70   | $115.70       | high           | low    | 3      | namecheap   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 30,339 live domains                        |
+| 1,000-row public sample | 32,664 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 86 high-demand names under $2,500          |
+| Basic exported fields   | 93 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PROF One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PROF One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
